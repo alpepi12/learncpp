@@ -14,3 +14,12 @@ statement is doing, you probably need to rewrite your statement, not comment it.
 At the library, program, or function level, use comments to describe what.
 Inside the library, program, or function, use comments to describe how.
 At the statement level, use comments to describe why.
+
+
+1.4: Different ways to initialize variables.
+Prefer direct list initialization (or value initialization) for initializing your variables.
+	int var{4};
+Best practice: Initialize your variables upon creation.
+
+1.5: Intro to ioStream
+- Use multiple insertion operators to concatenate strings and/or variables. std::cout << "Hello" << " world!";

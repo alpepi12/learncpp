@@ -22,8 +22,8 @@ Following lessons at https://www.learncpp.com/.
 - [X] 1.1 - Statements and the structure of a program
 - [X] 1.2 - Comments
 - [X] 1.3 - Introduction to objects and variables
-- [ ] 1.4 - Variable assignment and initialization
-- [ ] 1.5 - Introduction to iostream: cout, cin, and endl
+- [X] 1.4 - Variable assignment and initialization
+- [X] 1.5 - Introduction to iostream: cout, cin, and endl
 - [ ] 1.6 - Uninitialized variables and undefined behavior
 - [ ] 1.7 - Keywords and naming identifiers
 - [ ] 1.8 - Whitespace and basic formatting
