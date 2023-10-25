@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Initialization-Practice.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chapter1-Practice.cpp
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\Chapter1-Practice.cpp(17,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\Chapter1-Practice.cpp(15,7): warning C4189: 'e': local variable is initialized but not referenced
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\Chapter1-Practice.cpp(10,7): warning C4189: 'b': local variable is initialized but not referenced
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\Chapter1-Practice.cpp(13,7): warning C4189: 'c': local variable is initialized but not referenced
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\Chapter1-Practice.cpp(14,7): warning C4189: 'd': local variable is initialized but not referenced
+  Initialization-Practice.vcxproj -> D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\x64\Debug\Chapter1-Practice.exe

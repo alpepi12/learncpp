@@ -1,0 +1,7 @@
+﻿  HelloWorld.cpp
+D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\HelloWorld.cpp(8,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Initialization-Practice.vcxproj -> D:\Users\Alex\Documents\GitHub\learncpp\Chapter 1\Initialization-Practice\x64\Release\Initialization-Practice.exe
