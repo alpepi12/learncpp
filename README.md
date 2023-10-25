@@ -33,10 +33,10 @@ Following lessons at https://www.learncpp.com/.
 - [X] 1.x - Chapter 1 summary and quiz
 
 ## Ch. 2 - C++ Basics: Functions and Files
-- [ ] 2.1 - Introduction to functions
-- [ ] 2.2 - Function return values (value-returning functions)
-- [ ] 2.3 - Void functions (non-value returning functions)
-- [ ] 2.4 - Introduction to function parameters and arguments
+- [X] 2.1 - Introduction to functions
+- [X] 2.2 - Function return values (value-returning functions)
+- [X] 2.3 - Void functions (non-value returning functions)
+- [X] 2.4 - Introduction to function parameters and arguments
 - [ ] 2.5 - Introduction to local scope
 - [ ] 2.6 - Why functions are useful, and how to use them effectively
 - [ ] 2.7 - Forward declarations and definitions
