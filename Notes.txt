@@ -23,3 +23,7 @@ Best practice: Initialize your variables upon creation.
 
 1.5: Intro to ioStream
 - Use multiple insertion operators to concatenate strings and/or variables. std::cout << "Hello" << " world!";
+
+1.8: Formatting
+- In Visual Studio, the automatic formatting options can be found under Edit > Advanced > Format Document and Edit > Advanced > Format Selection.
+	- Ctrl + E, F to format selection
