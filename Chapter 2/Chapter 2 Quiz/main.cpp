@@ -2,39 +2,19 @@
 //
 
 #include <iostream>
+#include "io.h"
 
-
-int readNumber();
-void writeAnswer(int x);
 
 int main()
 {
-	// Get value from user
-	int input { readNumber() };
+	// Get values from user
+	int a { readNumber() };
+	int b { readNumber() };
 
 	//output value to console
-	writeAnswer(input);
+	writeAnswer(a+b);
 
 	return 0;
-}
-
-int readNumber()
-{
-	std::cout << "Enter an integer value: ";
-	
-	int inputVal{};
-	std::cin >> inputVal;
-
-	std::cout << '\n';
-
-	return inputVal;
-}
-
-void writeAnswer(int x)
-{
-	std::cout << "The entered value is: " << x << '\n';
-
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
