@@ -46,4 +46,17 @@ Following lessons at https://www.learncpp.com/.
 - [X] 2.11 - Header files
 - [X] 2.12 - Header guards 
 - [X] 2.13 - How to design your first programs
-- [ ] 2.x - Chapter 2 summary and quiz
+- [X] 2.x - Chapter 2 summary and quiz
+
+## Ch. 3 - Debugging C++ Programs
+- [ ] 3.1 - Syntax and semantic errors
+- [ ] 3.2 - The debugging process
+- [ ] 3.3 - A strategy for debugging
+- [ ] 3.4 - Basic debugging tactics
+- [ ] 3.5 - More debugging tactics
+- [ ] 3.6 - Using an integrated debugger: Stepping
+- [ ] 3.7 - Using an integrated debugger: Running and breakpoints
+- [ ] 3.8 - Using an integrated debugger: Watching variables
+- [ ] 3.9 - Using an integrated debugger: The call stack
+- [ ] 3.10 - Finding issues before they become problems
+- [ ] 3.x - Chapter 3 summary and quiz
