@@ -27,3 +27,15 @@ Best practice: Initialize your variables upon creation.
 1.8: Formatting
 - In Visual Studio, the automatic formatting options can be found under Edit > Advanced > Format Document and Edit > Advanced > Format Selection.
 	- Ctrl + E, F to format selection
+
+
+Chapter 2
+
+2.2: Value returning functions
+- Your main function should return the value 0 if the program ran normally.
+- Because of the wide variety of possibilities here, it’s a good idea to 
+	document your function with a comment indicating what the return values mean. 
+
+2.4: Introduction to function parameters and arguments
+- When a function parameter exists but is not used in the body of the function, do not give it a name. 
+	You can optionally put a name inside a comment.
